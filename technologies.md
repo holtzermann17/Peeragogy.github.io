@@ -259,7 +259,8 @@ features and functions. We have connected various technology features
 with an expanded version of Ben Shneiderman’s creativity support tools
 framework for the linked resource guide.  For convenience and to help
 keep it up to date, we’re publishing this resource [on Google
-Docs](http://goo.gl/H02fMA).   We present an overview below.
+Docs](http://goo.gl/H02fMA).
+
 
 ### References
 
